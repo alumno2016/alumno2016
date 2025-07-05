@@ -4,7 +4,7 @@
 
 # This is a button
 
-- https://img.shields.io/badge/hello-friend-blue
+<img src="https://img.shields.io/badge/hello-friend-blue"/>
 
 <div align="center">
 <a href="https://ossinsight.io">
