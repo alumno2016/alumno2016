@@ -1,5 +1,7 @@
 <h1 align="center">Hello friends I'm Jairo! 👁️</h1>
 
+<h2>This is and example about a template</h2>
+
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height=360
