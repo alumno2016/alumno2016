@@ -2,6 +2,10 @@
 
 <h2>This is and example about a template</h2>
 
+# This is a button
+
+<button>Help me</button>
+
 <div align="center">
 <a href="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height=360
